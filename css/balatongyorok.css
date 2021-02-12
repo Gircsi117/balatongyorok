@@ -15,12 +15,32 @@ body{
     background-image: url("/img/panorama.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     
     
 
 }
 
+h1{
+    float: left;
+    padding-left: 30px;
+}
+
 #cimer{
+    padding: 15px;
     width: 150px;
-    
+    display: block;
+    margin-left: auto;
+    margin-right: 15px;
+}
+
+.leiras{
+    width: 450px;
+    background-color: #5b9cea;
+    float: left;
+    padding: 20px;
+}
+
+.jobbra{
+    float: right;
 }
