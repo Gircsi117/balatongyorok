@@ -1,8 +1,26 @@
 body{
     background-image: url("/img/back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #fokeret{
     width: 1000px;
     margin: auto;
+}
+
+#header{
+    min-width: 650px;
+    max-width: 1000px;
+    background-image: url("/img/panorama.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+
+}
+
+#cimer{
+    width: 150px;
+    
 }
