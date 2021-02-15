@@ -1,6 +1,6 @@
 body{
     background-image: url("/img/back.jpg");
-    background-repeat: repeat-y;
+    background-repeat: no-repeat;
     background-size: cover;
     font-size: 16px;
 }
